@@ -81,7 +81,6 @@ exp-embeddings/
 - `numpy>=1.24.0` - Operaciones vectoriales
 - `streamlit>=1.28.0` - Interfaz web
 - `plotly>=5.17.0` - Gráficos interactivos
-- `scikit-learn>=1.3.0` - Reducción dimensional (PCA)
 - `python-dotenv>=1.0.0` - Carga de variables de entorno
 
 ## Notas Pedagógicas
