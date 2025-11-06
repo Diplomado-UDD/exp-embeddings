@@ -77,10 +77,10 @@ exp-embeddings/
 
 ## Dependencias
 
-- `openai>=1.0.0` - API de embeddings
-- `numpy>=1.24.0` - Operaciones vectoriales
-- `streamlit>=1.28.0` - Interfaz web
-- `plotly>=5.17.0` - Gráficos interactivos
+- `openai>=2.0.0` - API de embeddings
+- `numpy>=2.0.0` - Operaciones vectoriales
+- `streamlit>=1.50.0` - Interfaz web
+- `plotly>=6.0.0` - Gráficos interactivos
 - `python-dotenv>=1.0.0` - Carga de variables de entorno
 
 ## Notas Pedagógicas
