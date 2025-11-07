@@ -98,4 +98,4 @@ La aplicación usa caché de Streamlit (`@st.cache_data`) para evitar llamadas r
 
 ## Licencia
 
-Proyecto educativo para el Diplomado en Estrategia e Inteligencia Artificial, UDD 2025.
+Proyecto educativo para el _Diplomado en IA para la transformación empresarial_, UDD 2025.
